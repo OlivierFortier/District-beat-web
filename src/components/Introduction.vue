@@ -30,6 +30,6 @@ export default {
 
 <style lang="scss">
 .bulle-texte {
-    width: 60%;
+  width: 60%;
 }
 </style>

@@ -1,8 +1,7 @@
 <template>
   <div class="home">
     <div>
-      <h1>District Beat</h1>
-      <h2>Beat'em up</h2>
+      <img src="@/assets/logo_blanc-12.png" alt="logo du jeu" />
     </div>
     <Introduction />
   </div>
@@ -26,6 +25,10 @@ export default {
   height: auto;
   div {
     margin: 5% 0;
+    img {
+      width: 100%;
+      max-width: 900px;
+    }
   }
  
 }
