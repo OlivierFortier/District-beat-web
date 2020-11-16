@@ -11,7 +11,7 @@
 import Introduction from "@/components/Introduction.vue";
 
 export default {
-  name: "Home",
+  name: "Accueil",
   components: {
     Introduction
   }

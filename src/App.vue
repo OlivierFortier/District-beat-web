@@ -11,6 +11,10 @@
 
 <style lang="scss">
 @import url("https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap");
+body {
+  background: url("./assets/fond-site.webp");
+  background-repeat: repeat;
+}
 #app {
   font-family: "Press Start 2P", cursive;
   -webkit-font-smoothing: antialiased;
@@ -19,7 +23,6 @@
   color: #2c3e50;
   height: 100vh;
   width: 100vw;
-  background: url("./assets/fond-site.webp");
   margin: 0 auto;
 }
 </style>

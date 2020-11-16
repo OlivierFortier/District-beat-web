@@ -5,7 +5,7 @@
         <i class="nes-bcrikko"></i>
         <!-- Balloon -->
         <div class="nes-balloon from-left is-dark bulle-texte">
-          <p>Salut, t'as envie d'aller aux arcades ?</p>
+          <p>Salut, t'as envie d'aller jouer à District Beat ?</p>
         </div>
       </section>
 
@@ -13,7 +13,7 @@
         <!-- Balloon -->
         <div class="nes-balloon from-right is-dark bulle-texte">
           <p>
-            Oui ! Il y a un nouveau jeu nommé "District-Beat" qui est super !
+            Oooohhh yeah !!!
           </p>
         </div>
         <i class="nes-bcrikko"></i>
