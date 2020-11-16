@@ -25,6 +25,8 @@ export default {
   height: auto;
   div {
     margin: 5% 0;
+    display: flex;
+    justify-content: center;
     img {
       filter: drop-shadow(2px 4px 6px black);
       width: 100%;
