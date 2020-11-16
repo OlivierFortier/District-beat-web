@@ -1,8 +1,8 @@
 <template>
   <div id="app">
     <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/a-propos">About</router-link> |
+      <router-link to="/">Accueil</router-link> |
+      <router-link to="/a-propos">A propos</router-link> |
       <router-link to="/jouer">Jouer</router-link>
     </div>
     <router-view />
@@ -19,10 +19,20 @@ body {
   font-family: "Press Start 2P", cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
-  text-align: center;
   color: #2c3e50;
   height: 100vh;
   width: 100vw;
   margin: 0 auto;
+  overflow-x: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+#nav {
+  width: 100%;
+  margin-top: 4%;
+  display: flex;
+  justify-content: center;
 }
 </style>

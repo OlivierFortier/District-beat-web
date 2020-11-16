@@ -26,6 +26,7 @@ export default {
   div {
     margin: 5% 0;
     img {
+      filter: drop-shadow(2px 4px 6px black);
       width: 100%;
       max-width: 900px;
     }
