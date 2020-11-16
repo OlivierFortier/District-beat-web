@@ -1,5 +1,5 @@
 <template>
-  <main></main>
+  <main class="nes-container is-rounded is-dark"></main>
 </template>
 
 <script>
