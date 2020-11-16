@@ -9,6 +9,10 @@
   },
   "dependencies": {
     "core-js": "^3.6.5",
+    "css-loader": "^5.0.1",
+    "nes.css": "^2.3.0",
+    "sass": "^1.29.0",
+    "sass-loader": "^10.1.0",
     "vue": "^2.6.11",
     "vue-router": "^3.2.0"
   },
