@@ -14,9 +14,9 @@
       <h2>Un peu d'info...</h2>
       <p>
         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur
-        voluptate excepturi earum doloremque delectus error! Magnam placeat eius,
-        aut amet at veniam impedit mollitia libero ipsum, corrupti, reiciendis
-        laborum nesciunt.
+        voluptate excepturi earum doloremque delectus error! Magnam placeat
+        eius, aut amet at veniam impedit mollitia libero ipsum, corrupti,
+        reiciendis laborum nesciunt.
       </p>
     </div>
   </div>
