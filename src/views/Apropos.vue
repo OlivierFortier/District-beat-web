@@ -13,11 +13,8 @@
       </div>
       <h2>Un peu d'info...</h2>
       <p>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur
-        voluptate excepturi earum doloremque delectus error! Magnam placeat
-        eius, aut amet at veniam impedit mollitia libero ipsum, corrupti,
-        reiciendis laborum nesciunt.
-      </p>
+        DISTRICT BEAT est un roguelike beat 'em up couch-coop dans une ville dystopienne. Une gang décide d’aller voir un spectacle au centre-ville. Pour ce faire, ils doivent traverser plusieurs districts qui sont les territoires de gangs rivales. Chaque gang possède ses propres caractéristiques (couleurs, armes, costumes).
+      <p>
     </div>
   </div>
 </template>
