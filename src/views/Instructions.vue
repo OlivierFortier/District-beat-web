@@ -12,9 +12,8 @@
   </main>
 </template>
 
-
 <style lang="scss">
-    main {
-        width: 80%;
-    }
+main {
+  width: 80%;
+}
 </style>

@@ -4,7 +4,6 @@ import Accueil from "../views/Accueil.vue";
 import Apropos from "../views/Apropos.vue";
 import Instructions from "../views/Instructions.vue";
 
-
 Vue.use(VueRouter);
 
 const routes = [
