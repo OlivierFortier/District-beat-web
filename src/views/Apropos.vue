@@ -1,7 +1,7 @@
 <template>
   <main class="about">
     <div class="nes-container is-rounded is-dark">
-      <h1>À propos du jeu</h1>
+      <h1>À propos du jeu <i class="nes-icon is-large star"></i></h1>
       <h2>Créé par :</h2>
       <div class="lists">
         <ul class="nes-list is-circle">

@@ -8,12 +8,48 @@
         quartier en quartier, afin d'arriver à la fin ou se situe le concert.
       </p>
       <h2>Contrôles <i class="snes-logo"></i></h2>
-      <button type="button" class="nes-btn is-success">A</button>
-      <button type="button" class="nes-btn is-error">B</button>
-      <button type="button" class="nes-btn is-primary">X</button>
-      <button type="button" class="nes-btn is-warning">Y</button>
-      <button type="button" class="nes-btn">L</button>
-      <button type="button" class="nes-btn">R</button>
+      <div class="nes-table-responsive table">
+        <table class="nes-table is-bordered is-centered">
+          <thead>
+            <tr>
+              <th>
+                <button type="button" class="nes-btn is-success">A</button>
+              </th>
+              <th><button type="button" class="nes-btn is-error">B</button></th>
+              <th>
+                <button type="button" class="nes-btn is-primary">X</button>
+              </th>
+              <th>
+                <button type="button" class="nes-btn is-warning">Y</button>
+              </th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Esquiver</td>
+              <td>Attaquer</td>
+              <td>Yeet</td>
+              <td>Changer d'arme</td>
+            </tr>
+          </tbody>
+        </table>
+        <table class="nes-table is-bordered is-centered">
+          <thead>
+            <tr>
+              <th>
+                <button type="button" class="nes-btn">L</button>
+              </th>
+              <th><button type="button" class="nes-btn">R</button></th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>Changer de personnage</td>
+              <td>Changer de personnage</td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
     </div>
   </main>
 </template>
@@ -22,5 +58,9 @@
 main {
   width: 80%;
   margin-top: 5%;
+}
+
+.table {
+  color: black;
 }
 </style>
