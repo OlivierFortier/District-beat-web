@@ -1,5 +1,5 @@
 <template>
-  <div class="about">
+  <main class="about">
     <div class="nes-container is-rounded is-dark">
       <h1>À propos du jeu</h1>
       <h2>Créé par :</h2>
@@ -13,13 +13,13 @@
       </div>
       <h2>Un peu d'info...</h2>
       <p>
-        Lorem ipsum dolor sit, amet consectetur adipisicing elit. Pariatur
-        voluptate excepturi earum doloremque delectus error! Magnam placeat
-        eius, aut amet at veniam impedit mollitia libero ipsum, corrupti,
-        reiciendis laborum nesciunt.
+        District Beat est un jeu "Rogue-Like" où les niveaux sont générés de
+        façon aléatoire. <br />
+        Dans une époque rétro-futurise inspirée des années 80s, une bande doit
+        braver les dangers de différents quartiers pour assister à un concert.
       </p>
     </div>
-  </div>
+  </main>
 </template>
 
 <style lang="scss" scoped>
