@@ -15,5 +15,6 @@
 <style lang="scss">
 main {
   width: 80%;
+  margin-top: 5%;
 }
 </style>
