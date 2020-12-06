@@ -26,9 +26,9 @@
           </thead>
           <tbody>
             <tr>
-              <td>Esquiver</td>
+              <td>Interragir</td>
+              <td>Roulade</td>
               <td>Attaquer</td>
-              <td>Yeet</td>
               <td>Changer d'arme</td>
             </tr>
           </tbody>
@@ -39,13 +39,11 @@
               <th>
                 <button type="button" class="nes-btn">L</button>
               </th>
-              <th><button type="button" class="nes-btn">R</button></th>
             </tr>
           </thead>
           <tbody>
             <tr>
-              <td>Changer de personnage</td>
-              <td>Changer de personnage</td>
+              <td>Bouger</td>
             </tr>
           </tbody>
         </table>
