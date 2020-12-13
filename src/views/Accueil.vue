@@ -1,7 +1,7 @@
 <template>
   <div class="home">
     <div>
-      <img src="@/assets/logo_blanc-12.png" alt="logo du jeu" />
+      <img src="@/assets/logo_rose.png" alt="logo du jeu" />
     </div>
     <Introduction />
   </div>
