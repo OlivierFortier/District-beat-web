@@ -22,17 +22,12 @@
   </section>
 </template>
 
-<script>
-export default {
-  name: "Introduction"
-};
-</script>
-
 <style lang="scss">
 .bulle-texte {
   width: 60%;
 }
-.message-droite, .message-gauche {
+.message-droite,
+.message-gauche {
   display: flex;
 }
 .message-droite {
