@@ -1,7 +1,7 @@
 <template>
-  <div class="about">
+  <main class="about">
     <div class="nes-container is-rounded is-dark">
-      <h1>À propos du jeu</h1>
+      <h1>À propos du jeu <i class="nes-icon is-large star"></i></h1>
       <h2>Créé par :</h2>
       <div class="lists">
         <ul class="nes-list is-circle">
@@ -15,8 +15,9 @@
       <p>
         DISTRICT BEAT est un roguelike beat 'em up couch-coop dans une ville dystopienne. Une gang décide d’aller voir un spectacle au centre-ville. Pour ce faire, ils doivent traverser plusieurs districts qui sont les territoires de gangs rivales. Chaque gang possède ses propres caractéristiques (couleurs, armes, costumes).
       <p>
+
     </div>
-  </div>
+  </main>
 </template>
 
 <style lang="scss" scoped>
