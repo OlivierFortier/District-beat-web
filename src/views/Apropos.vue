@@ -18,6 +18,14 @@
         Dans une époque rétro-futurise inspirée des années 80s, une bande doit
         braver les dangers de différents quartiers pour assister à un concert.
       </p>
+      <h2>pour plus d'information</h2>
+
+      <a
+        target="_blank"
+        href="https://www.canva.com/design/DAEIcjKQSc0/WyzSf623lJvE7DiQBySonA/view?utm_content=DAEIcjKQSc0&utm_campaign=designshare&utm_medium=link&utm_source=sharebutton"
+      >
+        cliqué ici pour le document de conception</a
+      >
     </div>
   </main>
 </template>

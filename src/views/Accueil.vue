@@ -3,6 +3,9 @@
     <div>
       <img src="@/assets/logo_rose.png" alt="logo du jeu" />
     </div>
+    <video width="980" height="640" controls>
+      <source src="@/assets/districtBeatDemo.mp4" type="video/mp4" />
+    </video>
     <Introduction />
   </div>
 </template>
@@ -33,5 +36,9 @@ export default {
       max-width: 900px;
     }
   }
+}
+
+video {
+  width: 100%;
 }
 </style>
