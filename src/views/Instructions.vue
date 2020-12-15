@@ -7,8 +7,11 @@
         Vous devez survivre et vous battre à travers des hordes d'ennemis de
         quartier en quartier, afin d'arriver à la fin ou se situe le concert.
       </p>
-       <h2>Précision <i class="snes-logo"></i></h2>
-       <p>Vous devez confirmer votre choix de personnage avant de commencer la partie</p>
+      <h2>Précision <i class="snes-logo"></i></h2>
+      <p>
+        Vous devez confirmer votre choix de personnage avant de commencer la
+        partie
+      </p>
       <h2>Contrôles <i class="snes-logo"></i></h2>
       <p>
         Contrôles pour manettes sans guillemets, contrôles pour clavier avec
