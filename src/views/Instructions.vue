@@ -73,6 +73,9 @@
           </tbody>
         </table>
       </div>
+      <div class="nes-container is-rounded is-dark">
+        <h6>ps : pour activer le mode de triche.... appuyez sur LB sur la manettre, ou la touche L sur le clavier... shhhh</h6>
+      </div>
     </div>
   </main>
 </template>
